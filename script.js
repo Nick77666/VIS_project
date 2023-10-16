@@ -2,8 +2,15 @@ const svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height");
 
-const color = d3.scaleOrdinal(d3.schemeCategory10);
+const customColors = [
+    "#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd",
+    "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf",
+    "#1c9099", "#d6616b", "#e6550d", "#fdae6b", "#57ab27",
+    "#b5cf6b", "#dbdb8d", "#393b79", "#637939", "#8ca252"
+    // ... add more colors if needed
+];
 
+const color = d3.scaleOrdinal(customColors);
 const simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(d => d.name).distance(100))
     .force("charge", d3.forceManyBody())
