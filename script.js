@@ -1,42 +1,39 @@
 const svg = d3.select("svg"),
-    width = +window.innerWidth,
-    height = +window.innerHeight - 100; // Adjusting for title and description
-
-svg.attr("width", width).attr("height", height);
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
 
 const color = d3.scaleOrdinal(d3.schemeCategory10);
 
 const simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(d => d.id).distance(100))
+    .force("link", d3.forceLink().id(d => d.name).distance(100))
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2));
-
 const tooltip = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
 
+
 d3.json("data.json").then(graph => {
     const link = svg.append("g")
-        .attr("class", "links")
         .selectAll("line")
         .data(graph.links)
         .enter().append("line")
         .attr("class", "link");
 
+
     const node = svg.append("g")
-        .attr("class", "nodes")
         .selectAll("circle")
         .data(graph.nodes)
         .enter().append("circle")
         .attr("class", "node")
         .attr("r", 5)
-        .attr("fill", d => color(d.fields[0])) // Use the first field for color
+        .attr("fill", d => color(d.fields[0]))
         .on("click", (event, d) => highlightAndHideOthers(d))
         .on("mouseover", (event, d) => {
             tooltip.transition()
                 .duration(200)
                 .style("opacity", .9);
-            tooltip.html(d.id + "<br/> Group: " + d.fields.join(", ")) // Display all fields
+            tooltip.html(d.name + "<br/> Group: " + d.fields.join(", "))
                 .style("left", (event.pageX + 5) + "px")
                 .style("top", (event.pageY - 28) + "px");
         })
@@ -54,7 +51,7 @@ d3.json("data.json").then(graph => {
         .selectAll("text")
         .data(graph.nodes)
         .enter().append("text")
-        .text(d => d.name) // Use the name property
+        .text(d => d.name)
         .attr("dx", 12)
         .attr("dy", 4)
         .style("font-size", "10px");
@@ -77,23 +74,26 @@ d3.json("data.json").then(graph => {
         label.attr("x", d => d.x)
             .attr("y", d => d.y);
     }
-
+    svg.on("dblclick", resetHighlight);
     function highlightAndHideOthers(selectedNode) {
-        const connectedNodes = new Set([selectedNode.id]);
+        const connectedNodes = new Set([selectedNode.name]);
         graph.links.forEach(link => {
-            if (link.source.id === selectedNode.id) {
-                connectedNodes.add(link.target.id);
-            } else if (link.target.id === selectedNode.id) {
-                connectedNodes.add(link.source.id);
+            if (link.source.name === selectedNode.name) {
+                connectedNodes.add(link.target.name);
+            } else if (link.target.name === selectedNode.name) {
+                connectedNodes.add(link.source.name);
             }
         });
 
-        node.style("display", d => connectedNodes.has(d.id) ? "inline" : "none");
-        link.style("display", d => connectedNodes.has(d.source.id) && connectedNodes.has(d.target.id) ? "inline" : "none");
-        label.style("display", d => connectedNodes.has(d.id) ? "inline" : "none");
+        node.style("opacity", d => connectedNodes.has(d.name) ? 1 : 0.05);
+        link.style("opacity", d => connectedNodes.has(d.source.name) && connectedNodes.has(d.target.name) ? 1 : 0.05);
+        label.style("opacity", d => connectedNodes.has(d.name) ? 1 : 0.05);
     }
-
-    // Add legend
+    function resetHighlight(){
+        node.style("opacity", 1);
+        link.style("opacity", 1);
+        label.style("opacity", 1);
+    }
     const legend = svg.append("g")
         .attr("class", "legend")
         .attr("transform", "translate(" + (width - 150) + ",30)")
@@ -112,13 +112,9 @@ d3.json("data.json").then(graph => {
         .text(d => d);
 
     // Click on empty space to reset view
-    svg.on("click", () => {
-        node.style("display", "inline");
-        link.style("display", "inline");
-        label.style("display", "inline");
-    });
-});
 
+
+});
 function dragstarted(event, d) {
     if (!event.active) simulation.alphaTarget(0.3).restart();
     d.fx = d.x;
