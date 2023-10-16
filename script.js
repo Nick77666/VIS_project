@@ -11,9 +11,12 @@ const simulation = d3.forceSimulation()
 const tooltip = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
+const nodeSize = d3.scaleSqrt().range([1, 20]);
 
+d3.json("enhanced_data.json").then(graph => {
+    // Calculate the number of collaborations for each node
+    nodeSize.domain([0, d3.max(graph.nodes, d => d.collaborations)]);
 
-d3.json("data.json").then(graph => {
     const link = svg.append("g")
         .selectAll("line")
         .data(graph.links)
@@ -22,18 +25,19 @@ d3.json("data.json").then(graph => {
 
 
     const node = svg.append("g")
+        .attr("class", "nodes")
         .selectAll("circle")
         .data(graph.nodes)
         .enter().append("circle")
         .attr("class", "node")
-        .attr("r", 5)
+        .attr("r", d => nodeSize(d.collaborations))
         .attr("fill", d => color(d.fields[0]))
         .on("click", (event, d) => highlightAndHideOthers(d))
         .on("mouseover", (event, d) => {
             tooltip.transition()
                 .duration(200)
                 .style("opacity", .9);
-            tooltip.html(d.name + "<br/> Group: " + d.fields.join(", "))
+            tooltip.html(d.name + "<br/> Group: " + d.fields + "<br/> Collaborations: " + d.collaborations)
                 .style("left", (event.pageX + 5) + "px")
                 .style("top", (event.pageY - 28) + "px");
         })

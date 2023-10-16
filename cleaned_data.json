@@ -1,0 +1,1342 @@
+{
+    "nodes": [
+        {
+            "name": "Yousra Aafer",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "name": "Samer Al-Kiswany",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "name": "Mina Tahmasbi Arashloo",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "name": "N. Asokan",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "name": "Joanne Atlee",
+            "fields": [
+                "FORM",
+                "SE"
+            ]
+        },
+        {
+            "name": "Jeff Avery",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Gladimir Baranoski",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Diogo Barradas",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "name": "Christopher Batty",
+            "fields": [
+                "GRA",
+                "SCI"
+            ]
+        },
+        {
+            "name": "Byron Weber Becker",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Shai Ben-David",
+            "fields": [
+                "ML",
+                "AC",
+                "AI"
+            ]
+        },
+        {
+            "name": "Shalev Ben-David",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Daniel Berry",
+            "fields": [
+                "SE"
+            ]
+        },
+        {
+            "name": "Therese Biedl",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Eric Blais",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Yuri Boykov",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "name": "Raouf Boutaba",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "name": "Tim Brecht",
+            "fields": [
+                "SYN",
+                "PL"
+            ]
+        },
+        {
+            "name": "Daniel G. Brown",
+            "fields": [
+                "BIO",
+                "ML",
+                "AC"
+            ]
+        },
+        {
+            "name": "Trevor Brown",
+            "fields": [
+                "AC",
+                "SYN"
+            ]
+        },
+        {
+            "name": "Carmen Bruni",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Peter Buhr",
+            "fields": [
+                "PL",
+                "SYN"
+            ]
+        },
+        {
+            "name": "Jonathan Buss",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Lori M Case",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Wenhu Chen",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "name": "Charlie Clarke",
+            "fields": [
+                "DS",
+                "PL"
+            ]
+        },
+        {
+            "name": "Richard Cleve",
+            "fields": [
+                "QC",
+                "AC"
+            ]
+        },
+        {
+            "name": "Robin Cohen",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "name": "Gordon Cormack",
+            "fields": [
+                "DS",
+                "PL"
+            ]
+        },
+        {
+            "name": "Khuzaima Daudjee",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "name": "Nancy Day",
+            "fields": [
+                "FORM",
+                "SE"
+            ]
+        },
+        {
+            "name": "Kimon Fountoulakis",
+            "fields": [
+                "SCI"
+            ]
+        },
+        {
+            "name": "Mark Giesbrecht",
+            "fields": [
+                "ALG"
+            ]
+        },
+        {
+            "name": "Michael Godfrey",
+            "fields": [
+                "SE",
+                "PL"
+            ]
+        },
+        {
+            "name": "Ian Goldberg",
+            "fields": [
+                "CRYSP",
+                "SYN"
+            ]
+        },
+        {
+            "name": "Sergey Gorbunov",
+            "fields": [
+                "CRYSP",
+                "SYN"
+            ]
+        },
+        {
+            "name": "Maura Grossman",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "name": "Toshiya Hachisuka",
+            "fields": [
+                "GRA",
+                "SCI"
+            ]
+        },
+        {
+            "name": "Rob Hackman",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Mohammad Hajiabadi",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "name": "Xi He",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "name": "Urs Hengartner",
+            "fields": [
+                "CRYSP",
+                "SYN"
+            ]
+        },
+        {
+            "name": "Jesse Hoey",
+            "fields": [
+                "HI",
+                "AI",
+                "ML"
+            ]
+        },
+        {
+            "name": "Dan Holtby",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Irene Huang",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Ihab Ilyas",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "name": "Armin Jamshidpey",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Craig Kaplan",
+            "fields": [
+                "GRA"
+            ]
+        },
+        {
+            "name": "Lila Kari",
+            "fields": [
+                "BIO",
+                "AC"
+            ]
+        },
+        {
+            "name": "Zille Huma Kamal",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Gautam Kamath",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Martin Karsten",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "name": "Florian Kerschbaum",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "name": "George Labahn",
+            "fields": [
+                "ALG",
+                "SCI"
+            ]
+        },
+        {
+            "name": "Kevin Lanctot",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Kate Larson",
+            "fields": [
+                "AI",
+                "ML"
+            ]
+        },
+        {
+            "name": "Lap Chi Lau",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Edith Law",
+            "fields": [
+                "HCI",
+                "AI",
+                "HI"
+            ]
+        },
+        {
+            "name": "Ondrej Lhotak",
+            "fields": [
+                "PL"
+            ]
+        },
+        {
+            "name": "Ming Li",
+            "fields": [
+                "BIO",
+                "AC"
+            ]
+        },
+        {
+            "name": "Yuying Li",
+            "fields": [
+                "SCI"
+            ]
+        },
+        {
+            "name": "Noura Limam",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Jimmy Lin",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "name": "Yang Lu",
+            "fields": [
+                "BIO"
+            ]
+        },
+        {
+            "name": "Brad Lushman",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Bin Ma",
+            "fields": [
+                "BIO",
+                "AC"
+            ]
+        },
+        {
+            "name": "Sujaya Maiyya",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "name": "Richard Mann",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "name": "Stephen Mann",
+            "fields": [
+                "GRA"
+            ]
+        },
+        {
+            "name": "Ali Jos? Mashtizadeh",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "name": "Shane McIntosh",
+            "fields": [
+                "SE"
+            ]
+        },
+        {
+            "name": "Cameron Morland",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Ian Munro",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Nomair Naeem",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Meiyappan Nagappan",
+            "fields": [
+                "SE"
+            ]
+        },
+        {
+            "name": "Naomi Nishimura",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Rafael Oliveira",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Jeffery Orchard",
+            "fields": [
+                "SCI",
+                "HI"
+            ]
+        },
+        {
+            "name": "M. Tamer Ozsu",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "name": "Richard Peng",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Mark Petrick",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Pascal Poupart",
+            "fields": [
+                "ML",
+                "AI",
+                "HI"
+            ]
+        },
+        {
+            "name": "Prabhakar Ragde",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Adrian Reetz",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Gregor Richards",
+            "fields": [
+                "PL"
+            ]
+        },
+        {
+            "name": "Collin Roberts",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Victoria Sakhnini",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Mohammad Ali Salahuddin",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Ken Salem",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "name": "Semih Salihoglu",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "name": "Eric Schost",
+            "fields": [
+                "ALG"
+            ]
+        },
+        {
+            "name": "Leili Rafiee Sevyeri",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Jeffrey Shallit",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "name": "Arne Storjohann",
+            "fields": [
+                "ALG"
+            ]
+        },
+        {
+            "name": "Chengnian Sun",
+            "fields": [
+                "SE",
+                "PL"
+            ]
+        },
+        {
+            "name": "David Toman",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "name": "Dave Tompkins",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Richard Trefler",
+            "fields": [
+                "FORM",
+                "SE",
+                "SYN"
+            ]
+        },
+        {
+            "name": "Peter van Beek",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "name": "Troy Vasiga",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "name": "Olga Veksler",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "name": "Daniel Vogel",
+            "fields": [
+                "HCI"
+            ]
+        },
+        {
+            "name": "Justin Wan",
+            "fields": [
+                "SCI",
+                "HI"
+            ]
+        },
+        {
+            "name": "Stacey Watson",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "name": "Stephen Watt",
+            "fields": [
+                "ALG"
+            ]
+        },
+        {
+            "name": "Grant Weddell",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "name": "Bernard Wong",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "name": "Meng Xu",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "name": "Yaoliang Yu",
+            "fields": [
+                "ML"
+            ]
+        },
+        {
+            "name": "Hong Zhang",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "name": "Hongyang Zhang",
+            "fields": [
+                "ML"
+            ]
+        },
+        {
+            "name": "Yizhou Zhang",
+            "fields": [
+                "PL"
+            ]
+        },
+        {
+            "name": "Jian Zhao",
+            "fields": [
+                "HCI"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": "Armin Jamshidpey",
+            "target": "Eric Schost"
+        },
+        {
+            "source": "Armin Jamshidpey",
+            "target": "Mark Giesbrecht"
+        },
+        {
+            "source": "Samer Al-Kiswany",
+            "target": "Tim Brecht"
+        },
+        {
+            "source": "Samer Al-Kiswany",
+            "target": "Ali Jos? Mashtizadeh"
+        },
+        {
+            "source": "Arne Storjohann",
+            "target": "George Labahn"
+        },
+        {
+            "source": "Arne Storjohann",
+            "target": "Mark Giesbrecht"
+        },
+        {
+            "source": "Bernard Wong",
+            "target": "Tim Brecht"
+        },
+        {
+            "source": "Bernard Wong",
+            "target": "Khuzaima Daudjee"
+        },
+        {
+            "source": "Bernard Wong",
+            "target": "Ken Salem"
+        },
+        {
+            "source": "Bernard Wong",
+            "target": "Ali Jos? Mashtizadeh"
+        },
+        {
+            "source": "Bernard Wong",
+            "target": "Raouf Boutaba"
+        },
+        {
+            "source": "Bernard Wong",
+            "target": "Sergey Gorbunov"
+        },
+        {
+            "source": "Therese Biedl",
+            "target": "Craig Kaplan"
+        },
+        {
+            "source": "Therese Biedl",
+            "target": "Ian Munro"
+        },
+        {
+            "source": "Therese Biedl",
+            "target": "Jonathan Buss"
+        },
+        {
+            "source": "Therese Biedl",
+            "target": "Mark Petrick"
+        },
+        {
+            "source": "Therese Biedl",
+            "target": "Jeffrey Shallit"
+        },
+        {
+            "source": "Bin Ma",
+            "target": "Daniel G. Brown"
+        },
+        {
+            "source": "Bin Ma",
+            "target": "Kevin Lanctot"
+        },
+        {
+            "source": "Bin Ma",
+            "target": "Ming Li"
+        },
+        {
+            "source": "Brad Lushman",
+            "target": "Charlie Clarke"
+        },
+        {
+            "source": "Brad Lushman",
+            "target": "Gordon Cormack"
+        },
+        {
+            "source": "Tim Brecht",
+            "target": "Kate Larson"
+        },
+        {
+            "source": "Tim Brecht",
+            "target": "Ken Salem"
+        },
+        {
+            "source": "Tim Brecht",
+            "target": "Martin Karsten"
+        },
+        {
+            "source": "Tim Brecht",
+            "target": "Peter Buhr"
+        },
+        {
+            "source": "Daniel G. Brown",
+            "target": "Charlie Clarke"
+        },
+        {
+            "source": "Daniel G. Brown",
+            "target": "Maura Grossman"
+        },
+        {
+            "source": "Christopher Batty",
+            "target": "Justin Wan"
+        },
+        {
+            "source": "Christopher Batty",
+            "target": "Toshiya Hachisuka"
+        },
+        {
+            "source": "Charlie Clarke",
+            "target": "Craig Kaplan"
+        },
+        {
+            "source": "Charlie Clarke",
+            "target": "Edith Law"
+        },
+        {
+            "source": "Charlie Clarke",
+            "target": "Gordon Cormack"
+        },
+        {
+            "source": "Charlie Clarke",
+            "target": "Jimmy Lin"
+        },
+        {
+            "source": "Charlie Clarke",
+            "target": "Maura Grossman"
+        },
+        {
+            "source": "Charlie Clarke",
+            "target": "Stephen Mann"
+        },
+        {
+            "source": "Chengnian Sun",
+            "target": "Jian Zhao"
+        },
+        {
+            "source": "Craig Kaplan",
+            "target": "Daniel Berry"
+        },
+        {
+            "source": "Craig Kaplan",
+            "target": "Daniel Vogel"
+        },
+        {
+            "source": "Craig Kaplan",
+            "target": "Jeffery Orchard"
+        },
+        {
+            "source": "Craig Kaplan",
+            "target": "Jeffrey Shallit"
+        },
+        {
+            "source": "Craig Kaplan",
+            "target": "Stephen Mann"
+        },
+        {
+            "source": "David Toman",
+            "target": "Grant Weddell"
+        },
+        {
+            "source": "David Toman",
+            "target": "M. Tamer Ozsu"
+        },
+        {
+            "source": "Daniel Berry",
+            "target": "Khuzaima Daudjee"
+        },
+        {
+            "source": "Daniel Berry",
+            "target": "Michael Godfrey"
+        },
+        {
+            "source": "Daniel Berry",
+            "target": "Nancy Day"
+        },
+        {
+            "source": "Daniel Berry",
+            "target": "Victoria Sakhnini"
+        },
+        {
+            "source": "Daniel Vogel",
+            "target": "Jeff Avery"
+        },
+        {
+            "source": "Daniel Vogel",
+            "target": "Jian Zhao"
+        },
+        {
+            "source": "Daniel Vogel",
+            "target": "Khuzaima Daudjee"
+        },
+        {
+            "source": "Daniel Vogel",
+            "target": "Semih Salihoglu"
+        },
+        {
+            "source": "Daniel Vogel",
+            "target": "Urs Hengartner"
+        },
+        {
+            "source": "Eric Blais",
+            "target": "Shalev Ben-David"
+        },
+        {
+            "source": "Eric Blais",
+            "target": "Semih Salihoglu"
+        },
+        {
+            "source": "Eric Blais",
+            "target": "Peter van Beek"
+        },
+        {
+            "source": "Edith Law",
+            "target": "Jian Zhao"
+        },
+        {
+            "source": "Edith Law",
+            "target": "Kate Larson"
+        },
+        {
+            "source": "Edith Law",
+            "target": "Pascal Poupart"
+        },
+        {
+            "source": "Edith Law",
+            "target": "Robin Cohen"
+        },
+        {
+            "source": "Eric Schost",
+            "target": "George Labahn"
+        },
+        {
+            "source": "Eric Schost",
+            "target": "Mark Giesbrecht"
+        },
+        {
+            "source": "Florian Kerschbaum",
+            "target": "Hongyang Zhang"
+        },
+        {
+            "source": "Florian Kerschbaum",
+            "target": "Ian Goldberg"
+        },
+        {
+            "source": "Florian Kerschbaum",
+            "target": "Ihab Ilyas"
+        },
+        {
+            "source": "Gautam Kamath",
+            "target": "Xi He"
+        },
+        {
+            "source": "Gautam Kamath",
+            "target": "Yaoliang Yu"
+        },
+        {
+            "source": "Gregor Richards",
+            "target": "Ondrej Lhotak"
+        },
+        {
+            "source": "George Labahn",
+            "target": "Leili Rafiee Sevyeri"
+        },
+        {
+            "source": "George Labahn",
+            "target": "Richard Mann"
+        },
+        {
+            "source": "George Labahn",
+            "target": "Mark Giesbrecht"
+        },
+        {
+            "source": "George Labahn",
+            "target": "Stephen Watt"
+        },
+        {
+            "source": "George Labahn",
+            "target": "Irene Huang"
+        },
+        {
+            "source": "Gordon Cormack",
+            "target": "Ian Munro"
+        },
+        {
+            "source": "Gordon Cormack",
+            "target": "Jimmy Lin"
+        },
+        {
+            "source": "Gordon Cormack",
+            "target": "Maura Grossman"
+        },
+        {
+            "source": "Gordon Cormack",
+            "target": "Ondrej Lhotak"
+        },
+        {
+            "source": "Gordon Cormack",
+            "target": "Troy Vasiga"
+        },
+        {
+            "source": "Gladimir Baranoski",
+            "target": "Justin Wan"
+        },
+        {
+            "source": "Grant Weddell",
+            "target": "Ihab Ilyas"
+        },
+        {
+            "source": "Grant Weddell",
+            "target": "Richard Trefler"
+        },
+        {
+            "source": "Hongyang Zhang",
+            "target": "Jimmy Lin"
+        },
+        {
+            "source": "Ian Goldberg",
+            "target": "Martin Karsten"
+        },
+        {
+            "source": "Ian Goldberg",
+            "target": "Raouf Boutaba"
+        },
+        {
+            "source": "Ian Goldberg",
+            "target": "Sergey Gorbunov"
+        },
+        {
+            "source": "Ian Goldberg",
+            "target": "Urs Hengartner"
+        },
+        {
+            "source": "Ihab Ilyas",
+            "target": "Jimmy Lin"
+        },
+        {
+            "source": "Ihab Ilyas",
+            "target": "Ken Salem"
+        },
+        {
+            "source": "Ihab Ilyas",
+            "target": "Shalev Ben-David"
+        },
+        {
+            "source": "Ihab Ilyas",
+            "target": "Shai Ben-David"
+        },
+        {
+            "source": "Ihab Ilyas",
+            "target": "M. Tamer Ozsu"
+        },
+        {
+            "source": "Ihab Ilyas",
+            "target": "Xi He"
+        },
+        {
+            "source": "Ian Munro",
+            "target": "Troy Vasiga"
+        },
+        {
+            "source": "Ian Munro",
+            "target": "Richard Peng"
+        },
+        {
+            "source": "Jonathan Buss",
+            "target": "Prabhakar Ragde"
+        },
+        {
+            "source": "Jonathan Buss",
+            "target": "Jeffrey Shallit"
+        },
+        {
+            "source": "Jesse Hoey",
+            "target": "Meiyappan Nagappan"
+        },
+        {
+            "source": "Jesse Hoey",
+            "target": "Pascal Poupart"
+        },
+        {
+            "source": "Jesse Hoey",
+            "target": "Robin Cohen"
+        },
+        {
+            "source": "Jian Zhao",
+            "target": "Khuzaima Daudjee"
+        },
+        {
+            "source": "Jian Zhao",
+            "target": "Ming Li"
+        },
+        {
+            "source": "Jian Zhao",
+            "target": "Semih Salihoglu"
+        },
+        {
+            "source": "Jian Zhao",
+            "target": "Yaoliang Yu"
+        },
+        {
+            "source": "Jimmy Lin",
+            "target": "Meiyappan Nagappan"
+        },
+        {
+            "source": "Jimmy Lin",
+            "target": "Ming Li"
+        },
+        {
+            "source": "Jimmy Lin",
+            "target": "Semih Salihoglu"
+        },
+        {
+            "source": "Jimmy Lin",
+            "target": "M. Tamer Ozsu"
+        },
+        {
+            "source": "Jimmy Lin",
+            "target": "Yaoliang Yu"
+        },
+        {
+            "source": "Joanne Atlee",
+            "target": "Michael Godfrey"
+        },
+        {
+            "source": "Joanne Atlee",
+            "target": "Nancy Day"
+        },
+        {
+            "source": "Joanne Atlee",
+            "target": "Rob Hackman"
+        },
+        {
+            "source": "Jeffery Orchard",
+            "target": "Richard Mann"
+        },
+        {
+            "source": "Khuzaima Daudjee",
+            "target": "Ken Salem"
+        },
+        {
+            "source": "Khuzaima Daudjee",
+            "target": "Naomi Nishimura"
+        },
+        {
+            "source": "Khuzaima Daudjee",
+            "target": "Semih Salihoglu"
+        },
+        {
+            "source": "Khuzaima Daudjee",
+            "target": "M. Tamer Ozsu"
+        },
+        {
+            "source": "Kate Larson",
+            "target": "Robin Cohen"
+        },
+        {
+            "source": "Kate Larson",
+            "target": "Urs Hengartner"
+        },
+        {
+            "source": "Ken Salem",
+            "target": "Martin Karsten"
+        },
+        {
+            "source": "Ken Salem",
+            "target": "Semih Salihoglu"
+        },
+        {
+            "source": "Zille Huma Kamal",
+            "target": "Mohammad Ali Salahuddin"
+        },
+        {
+            "source": "Leili Rafiee Sevyeri",
+            "target": "Mark Giesbrecht"
+        },
+        {
+            "source": "Meiyappan Nagappan",
+            "target": "Michael Godfrey"
+        },
+        {
+            "source": "Meiyappan Nagappan",
+            "target": "N. Asokan"
+        },
+        {
+            "source": "Meiyappan Nagappan",
+            "target": "Shane McIntosh"
+        },
+        {
+            "source": "Meiyappan Nagappan",
+            "target": "Yaoliang Yu"
+        },
+        {
+            "source": "Mohammad Ali Salahuddin",
+            "target": "Noura Limam"
+        },
+        {
+            "source": "Mohammad Ali Salahuddin",
+            "target": "Raouf Boutaba"
+        },
+        {
+            "source": "Richard Mann",
+            "target": "Robin Cohen"
+        },
+        {
+            "source": "Ali Jos? Mashtizadeh",
+            "target": "Raouf Boutaba"
+        },
+        {
+            "source": "Ali Jos? Mashtizadeh",
+            "target": "Trevor Brown"
+        },
+        {
+            "source": "Michael Godfrey",
+            "target": "Mark Giesbrecht"
+        },
+        {
+            "source": "Michael Godfrey",
+            "target": "Nancy Day"
+        },
+        {
+            "source": "Michael Godfrey",
+            "target": "Rob Hackman"
+        },
+        {
+            "source": "Michael Godfrey",
+            "target": "Robin Cohen"
+        },
+        {
+            "source": "Martin Karsten",
+            "target": "Peter Buhr"
+        },
+        {
+            "source": "Martin Karsten",
+            "target": "Raouf Boutaba"
+        },
+        {
+            "source": "Martin Karsten",
+            "target": "Semih Salihoglu"
+        },
+        {
+            "source": "Maura Grossman",
+            "target": "Robin Cohen"
+        },
+        {
+            "source": "Mark Giesbrecht",
+            "target": "Stephen Watt"
+        },
+        {
+            "source": "Noura Limam",
+            "target": "Raouf Boutaba"
+        },
+        {
+            "source": "Nomair Naeem",
+            "target": "Ondrej Lhotak"
+        },
+        {
+            "source": "Naomi Nishimura",
+            "target": "Peter Buhr"
+        },
+        {
+            "source": "Naomi Nishimura",
+            "target": "Prabhakar Ragde"
+        },
+        {
+            "source": "Olga Veksler",
+            "target": "Yuri Boykov"
+        },
+        {
+            "source": "Peter Buhr",
+            "target": "Prabhakar Ragde"
+        },
+        {
+            "source": "Pascal Poupart",
+            "target": "Robin Cohen"
+        },
+        {
+            "source": "Pascal Poupart",
+            "target": "Peter van Beek"
+        },
+        {
+            "source": "Pascal Poupart",
+            "target": "Yaoliang Yu"
+        },
+        {
+            "source": "Pascal Poupart",
+            "target": "Yuying Li"
+        },
+        {
+            "source": "Raouf Boutaba",
+            "target": "Sergey Gorbunov"
+        },
+        {
+            "source": "Robin Cohen",
+            "target": "Peter van Beek"
+        },
+        {
+            "source": "Shalev Ben-David",
+            "target": "Shai Ben-David"
+        },
+        {
+            "source": "Shai Ben-David",
+            "target": "Yaoliang Yu"
+        },
+        {
+            "source": "Jeffrey Shallit",
+            "target": "Troy Vasiga"
+        },
+        {
+            "source": "Semih Salihoglu",
+            "target": "M. Tamer Ozsu"
+        }
+    ]
+}
