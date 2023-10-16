@@ -1,0 +1,1455 @@
+{
+    "nodes": [
+        {
+            "id": "yaafer",
+            "name": "Yousra Aafer",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "id": "alkiswan",
+            "name": "Samer Al-Kiswany",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "id": "mtahmasb",
+            "name": "Mina Tahmasbi Arashloo",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "id": "nasokan",
+            "name": "N. Asokan",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "id": "jmatlee",
+            "name": "Joanne Atlee",
+            "fields": [
+                "FORM",
+                "SE"
+            ]
+        },
+        {
+            "id": "j2avery",
+            "name": "Jeff Avery",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "gvgbaran",
+            "name": "Gladimir Baranoski",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "dbarrada",
+            "name": "Diogo Barradas",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "id": "c2batty",
+            "name": "Christopher Batty",
+            "fields": [
+                "GRA",
+                "SCI"
+            ]
+        },
+        {
+            "id": "bwbecker",
+            "name": "Byron Weber Becker",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "shai",
+            "name": "Shai Ben-David",
+            "fields": [
+                "ML",
+                "AC",
+                "AI"
+            ]
+        },
+        {
+            "id": "s4bendav",
+            "name": "Shalev Ben-David",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "dberry",
+            "name": "Daniel Berry",
+            "fields": [
+                "SE"
+            ]
+        },
+        {
+            "id": "biedl",
+            "name": "Therese Biedl",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "eblais",
+            "name": "Eric Blais",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "yboykov",
+            "name": "Yuri Boykov",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "id": "rboutaba",
+            "name": "Raouf Boutaba",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "id": "brecht",
+            "name": "Tim Brecht",
+            "fields": [
+                "SYN",
+                "PL"
+            ]
+        },
+        {
+            "id": "browndg",
+            "name": "Daniel G. Brown",
+            "fields": [
+                "BIO",
+                "ML",
+                "AC"
+            ]
+        },
+        {
+            "id": "t35brown",
+            "name": "Trevor Brown",
+            "fields": [
+                "AC",
+                "SYN"
+            ]
+        },
+        {
+            "id": "cbruni",
+            "name": "Carmen Bruni",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "pabuhr",
+            "name": "Peter Buhr",
+            "fields": [
+                "PL",
+                "SYN"
+            ]
+        },
+        {
+            "id": "jfbuss",
+            "name": "Jonathan Buss",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "lmcase",
+            "name": "Lori M Case",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "wenhuche",
+            "name": "Wenhu Chen",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "id": "claclark",
+            "name": "Charlie Clarke",
+            "fields": [
+                "DS",
+                "PL"
+            ]
+        },
+        {
+            "id": "cleve",
+            "name": "Richard Cleve",
+            "fields": [
+                "QC",
+                "AC"
+            ]
+        },
+        {
+            "id": "rcohen",
+            "name": "Robin Cohen",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "id": "gvcormac",
+            "name": "Gordon Cormack",
+            "fields": [
+                "DS",
+                "PL"
+            ]
+        },
+        {
+            "id": "kdaudjee",
+            "name": "Khuzaima Daudjee",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "id": "nday",
+            "name": "Nancy Day",
+            "fields": [
+                "FORM",
+                "SE"
+            ]
+        },
+        {
+            "id": "k2founto",
+            "name": "Kimon Fountoulakis",
+            "fields": [
+                "SCI"
+            ]
+        },
+        {
+            "id": "mwg",
+            "name": "Mark Giesbrecht",
+            "fields": [
+                "ALG"
+            ]
+        },
+        {
+            "id": "migod",
+            "name": "Michael Godfrey",
+            "fields": [
+                "SE",
+                "PL"
+            ]
+        },
+        {
+            "id": "iang",
+            "name": "Ian Goldberg",
+            "fields": [
+                "CRYSP",
+                "SYN"
+            ]
+        },
+        {
+            "id": "sgorbuno",
+            "name": "Sergey Gorbunov",
+            "fields": [
+                "CRYSP",
+                "SYN"
+            ]
+        },
+        {
+            "id": "mrgrossm",
+            "name": "Maura Grossman",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "id": "thachisu",
+            "name": "Toshiya Hachisuka",
+            "fields": [
+                "GRA",
+                "SCI"
+            ]
+        },
+        {
+            "id": "r2hackma",
+            "name": "Rob Hackman",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "mdhajiab",
+            "name": "Mohammad Hajiabadi",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "id": "xihe",
+            "name": "Xi He",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "id": "uhengart",
+            "name": "Urs Hengartner",
+            "fields": [
+                "CRYSP",
+                "SYN"
+            ]
+        },
+        {
+            "id": "jhoey",
+            "name": "Jesse Hoey",
+            "fields": [
+                "HI",
+                "AI",
+                "ML"
+            ]
+        },
+        {
+            "id": "djholtby",
+            "name": "Dan Holtby",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "yqhuang",
+            "name": "Irene Huang",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "ilyas",
+            "name": "Ihab Ilyas",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "id": "a5jamshi",
+            "name": "Armin Jamshidpey",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "csk",
+            "name": "Craig Kaplan",
+            "fields": [
+                "GRA"
+            ]
+        },
+        {
+            "id": "lila",
+            "name": "Lila Kari",
+            "fields": [
+                "BIO",
+                "AC"
+            ]
+        },
+        {
+            "id": "kzillehu",
+            "name": "Zille Huma Kamal",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "gckamath",
+            "name": "Gautam Kamath",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "mkarsten",
+            "name": "Martin Karsten",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "id": "fkerschb",
+            "name": "Florian Kerschbaum",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "id": "glabahn",
+            "name": "George Labahn",
+            "fields": [
+                "ALG",
+                "SCI"
+            ]
+        },
+        {
+            "id": "klanctot",
+            "name": "Kevin Lanctot",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "klarson",
+            "name": "Kate Larson",
+            "fields": [
+                "AI",
+                "ML"
+            ]
+        },
+        {
+            "id": "lapchi",
+            "name": "Lap Chi Lau",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "edithlaw",
+            "name": "Edith Law",
+            "fields": [
+                "HCI",
+                "AI",
+                "HI"
+            ]
+        },
+        {
+            "id": "olhotak",
+            "name": "Ondrej Lhotak",
+            "fields": [
+                "PL"
+            ]
+        },
+        {
+            "id": "mli",
+            "name": "Ming Li",
+            "fields": [
+                "BIO",
+                "AC"
+            ]
+        },
+        {
+            "id": "yuying",
+            "name": "Yuying Li",
+            "fields": [
+                "SCI"
+            ]
+        },
+        {
+            "id": "n2limam",
+            "name": "Noura Limam",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "jimmylin",
+            "name": "Jimmy Lin",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "id": "yanglu",
+            "name": "Yang Lu",
+            "fields": [
+                "BIO"
+            ]
+        },
+        {
+            "id": "bmlushma",
+            "name": "Brad Lushman",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "binma",
+            "name": "Bin Ma",
+            "fields": [
+                "BIO",
+                "AC"
+            ]
+        },
+        {
+            "id": "smaiyya",
+            "name": "Sujaya Maiyya",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "id": "mannr",
+            "name": "Richard Mann",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "id": "smann",
+            "name": "Stephen Mann",
+            "fields": [
+                "GRA"
+            ]
+        },
+        {
+            "id": "mashti",
+            "name": "Ali Jos? Mashtizadeh",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "id": "s4mcinto",
+            "name": "Shane McIntosh",
+            "fields": [
+                "SE"
+            ]
+        },
+        {
+            "id": "cjmorlan",
+            "name": "Cameron Morland",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "imunro",
+            "name": "Ian Munro",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "nanaeem",
+            "name": "Nomair Naeem",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "m2nagapp",
+            "name": "Meiyappan Nagappan",
+            "fields": [
+                "SE"
+            ]
+        },
+        {
+            "id": "nishi",
+            "name": "Naomi Nishimura",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "r5olivei",
+            "name": "Rafael Oliveira",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "jorchard",
+            "name": "Jeffery Orchard",
+            "fields": [
+                "SCI",
+                "HI"
+            ]
+        },
+        {
+            "id": "tozsu",
+            "name": "M. Tamer Ozsu",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "id": "y5peng",
+            "name": "Richard Peng",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "mdtpetri",
+            "name": "Mark Petrick",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "ppoupart",
+            "name": "Pascal Poupart",
+            "fields": [
+                "ML",
+                "AI",
+                "HI"
+            ]
+        },
+        {
+            "id": "plragde",
+            "name": "Prabhakar Ragde",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "areetz",
+            "name": "Adrian Reetz",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "gkrichar",
+            "name": "Gregor Richards",
+            "fields": [
+                "PL"
+            ]
+        },
+        {
+            "id": "cd2rober",
+            "name": "Collin Roberts",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "vsakhnin",
+            "name": "Victoria Sakhnini",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "m2salahu",
+            "name": "Mohammad Ali Salahuddin",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "kmsalem",
+            "name": "Ken Salem",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "id": "ssalihog",
+            "name": "Semih Salihoglu",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "id": "eschost",
+            "name": "Eric Schost",
+            "fields": [
+                "ALG"
+            ]
+        },
+        {
+            "id": "lrafiees",
+            "name": "Leili Rafiee Sevyeri",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "shallit",
+            "name": "Jeffrey Shallit",
+            "fields": [
+                "AC"
+            ]
+        },
+        {
+            "id": "astorjoh",
+            "name": "Arne Storjohann",
+            "fields": [
+                "ALG"
+            ]
+        },
+        {
+            "id": "cnsun",
+            "name": "Chengnian Sun",
+            "fields": [
+                "SE",
+                "PL"
+            ]
+        },
+        {
+            "id": "david",
+            "name": "David Toman",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "id": "dtompkin",
+            "name": "Dave Tompkins",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "trefler",
+            "name": "Richard Trefler",
+            "fields": [
+                "FORM",
+                "SE",
+                "SYN"
+            ]
+        },
+        {
+            "id": "vanbeek",
+            "name": "Peter van Beek",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "id": "tmjvasig",
+            "name": "Troy Vasiga",
+            "fields": [
+                "Unknown"
+            ]
+        },
+        {
+            "id": "oveksler",
+            "name": "Olga Veksler",
+            "fields": [
+                "AI"
+            ]
+        },
+        {
+            "id": "dvogel",
+            "name": "Daniel Vogel",
+            "fields": [
+                "HCI"
+            ]
+        },
+        {
+            "id": "jwlwan",
+            "name": "Justin Wan",
+            "fields": [
+                "SCI",
+                "HI"
+            ]
+        },
+        {
+            "id": "s28watso",
+            "name": "Stacey Watson",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "id": "smwatt",
+            "name": "Stephen Watt",
+            "fields": [
+                "ALG"
+            ]
+        },
+        {
+            "id": "gweddell",
+            "name": "Grant Weddell",
+            "fields": [
+                "DS"
+            ]
+        },
+        {
+            "id": "bernard",
+            "name": "Bernard Wong",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "id": "m285xu",
+            "name": "Meng Xu",
+            "fields": [
+                "CRYSP"
+            ]
+        },
+        {
+            "id": "y328yu",
+            "name": "Yaoliang Yu",
+            "fields": [
+                "ML"
+            ]
+        },
+        {
+            "id": "honzhang",
+            "name": "Hong Zhang",
+            "fields": [
+                "SYN"
+            ]
+        },
+        {
+            "id": "h935zhan",
+            "name": "Hongyang Zhang",
+            "fields": [
+                "ML"
+            ]
+        },
+        {
+            "id": "yizhou",
+            "name": "Yizhou Zhang",
+            "fields": [
+                "PL"
+            ]
+        },
+        {
+            "id": "jianzhao",
+            "name": "Jian Zhao",
+            "fields": [
+                "HCI"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": "a5jamshi",
+            "target": "eschost"
+        },
+        {
+            "source": "a5jamshi",
+            "target": "mwg"
+        },
+        {
+            "source": "alkiswan",
+            "target": "brecht"
+        },
+        {
+            "source": "alkiswan",
+            "target": "mashti"
+        },
+        {
+            "source": "astorjoh",
+            "target": "glabahn"
+        },
+        {
+            "source": "astorjoh",
+            "target": "mwg"
+        },
+        {
+            "source": "bernard",
+            "target": "brecht"
+        },
+        {
+            "source": "bernard",
+            "target": "kdaudjee"
+        },
+        {
+            "source": "bernard",
+            "target": "kmsalem"
+        },
+        {
+            "source": "bernard",
+            "target": "mashti"
+        },
+        {
+            "source": "bernard",
+            "target": "rboutaba"
+        },
+        {
+            "source": "bernard",
+            "target": "sgorbuno"
+        },
+        {
+            "source": "biedl",
+            "target": "csk"
+        },
+        {
+            "source": "biedl",
+            "target": "imunro"
+        },
+        {
+            "source": "biedl",
+            "target": "jfbuss"
+        },
+        {
+            "source": "biedl",
+            "target": "mdtpetri"
+        },
+        {
+            "source": "biedl",
+            "target": "shallit"
+        },
+        {
+            "source": "binma",
+            "target": "browndg"
+        },
+        {
+            "source": "binma",
+            "target": "klanctot"
+        },
+        {
+            "source": "binma",
+            "target": "mli"
+        },
+        {
+            "source": "bmlushma",
+            "target": "claclark"
+        },
+        {
+            "source": "bmlushma",
+            "target": "gvcormac"
+        },
+        {
+            "source": "brecht",
+            "target": "klarson"
+        },
+        {
+            "source": "brecht",
+            "target": "kmsalem"
+        },
+        {
+            "source": "brecht",
+            "target": "mkarsten"
+        },
+        {
+            "source": "brecht",
+            "target": "pabuhr"
+        },
+        {
+            "source": "browndg",
+            "target": "claclark"
+        },
+        {
+            "source": "browndg",
+            "target": "mrgrossm"
+        },
+        {
+            "source": "c2batty",
+            "target": "jwlwan"
+        },
+        {
+            "source": "c2batty",
+            "target": "thachisu"
+        },
+        {
+            "source": "claclark",
+            "target": "csk"
+        },
+        {
+            "source": "claclark",
+            "target": "edithlaw"
+        },
+        {
+            "source": "claclark",
+            "target": "gvcormac"
+        },
+        {
+            "source": "claclark",
+            "target": "jimmylin"
+        },
+        {
+            "source": "claclark",
+            "target": "mrgrossm"
+        },
+        {
+            "source": "claclark",
+            "target": "smann"
+        },
+        {
+            "source": "cnsun",
+            "target": "jianzhao"
+        },
+        {
+            "source": "csk",
+            "target": "dberry"
+        },
+        {
+            "source": "csk",
+            "target": "dvogel"
+        },
+        {
+            "source": "csk",
+            "target": "jorchard"
+        },
+        {
+            "source": "csk",
+            "target": "shallit"
+        },
+        {
+            "source": "csk",
+            "target": "smann"
+        },
+        {
+            "source": "david",
+            "target": "gweddell"
+        },
+        {
+            "source": "david",
+            "target": "tozsu"
+        },
+        {
+            "source": "dberry",
+            "target": "kdaudjee"
+        },
+        {
+            "source": "dberry",
+            "target": "migod"
+        },
+        {
+            "source": "dberry",
+            "target": "nday"
+        },
+        {
+            "source": "dberry",
+            "target": "vsakhnin"
+        },
+        {
+            "source": "dvogel",
+            "target": "j2avery"
+        },
+        {
+            "source": "dvogel",
+            "target": "jianzhao"
+        },
+        {
+            "source": "dvogel",
+            "target": "kdaudjee"
+        },
+        {
+            "source": "dvogel",
+            "target": "ssalihog"
+        },
+        {
+            "source": "dvogel",
+            "target": "uhengart"
+        },
+        {
+            "source": "eblais",
+            "target": "s4bendav"
+        },
+        {
+            "source": "eblais",
+            "target": "ssalihog"
+        },
+        {
+            "source": "eblais",
+            "target": "vanbeek"
+        },
+        {
+            "source": "edithlaw",
+            "target": "jianzhao"
+        },
+        {
+            "source": "edithlaw",
+            "target": "klarson"
+        },
+        {
+            "source": "edithlaw",
+            "target": "ppoupart"
+        },
+        {
+            "source": "edithlaw",
+            "target": "rcohen"
+        },
+        {
+            "source": "eschost",
+            "target": "glabahn"
+        },
+        {
+            "source": "eschost",
+            "target": "mwg"
+        },
+        {
+            "source": "fkerschb",
+            "target": "h935zhan"
+        },
+        {
+            "source": "fkerschb",
+            "target": "iang"
+        },
+        {
+            "source": "fkerschb",
+            "target": "ilyas"
+        },
+        {
+            "source": "gckamath",
+            "target": "xihe"
+        },
+        {
+            "source": "gckamath",
+            "target": "y328yu"
+        },
+        {
+            "source": "gkrichar",
+            "target": "olhotak"
+        },
+        {
+            "source": "glabahn",
+            "target": "lrafiees"
+        },
+        {
+            "source": "glabahn",
+            "target": "mannr"
+        },
+        {
+            "source": "glabahn",
+            "target": "mwg"
+        },
+        {
+            "source": "glabahn",
+            "target": "smwatt"
+        },
+        {
+            "source": "glabahn",
+            "target": "yqhuang"
+        },
+        {
+            "source": "gvcormac",
+            "target": "imunro"
+        },
+        {
+            "source": "gvcormac",
+            "target": "jimmylin"
+        },
+        {
+            "source": "gvcormac",
+            "target": "mrgrossm"
+        },
+        {
+            "source": "gvcormac",
+            "target": "olhotak"
+        },
+        {
+            "source": "gvcormac",
+            "target": "tmjvasig"
+        },
+        {
+            "source": "gvgbaran",
+            "target": "jwlwan"
+        },
+        {
+            "source": "gweddell",
+            "target": "ilyas"
+        },
+        {
+            "source": "gweddell",
+            "target": "trefler"
+        },
+        {
+            "source": "h935zhan",
+            "target": "jimmylin"
+        },
+        {
+            "source": "iang",
+            "target": "mkarsten"
+        },
+        {
+            "source": "iang",
+            "target": "rboutaba"
+        },
+        {
+            "source": "iang",
+            "target": "sgorbuno"
+        },
+        {
+            "source": "iang",
+            "target": "uhengart"
+        },
+        {
+            "source": "ilyas",
+            "target": "jimmylin"
+        },
+        {
+            "source": "ilyas",
+            "target": "kmsalem"
+        },
+        {
+            "source": "ilyas",
+            "target": "s4bendav"
+        },
+        {
+            "source": "ilyas",
+            "target": "shai"
+        },
+        {
+            "source": "ilyas",
+            "target": "tozsu"
+        },
+        {
+            "source": "ilyas",
+            "target": "xihe"
+        },
+        {
+            "source": "imunro",
+            "target": "tmjvasig"
+        },
+        {
+            "source": "imunro",
+            "target": "y5peng"
+        },
+        {
+            "source": "jfbuss",
+            "target": "plragde"
+        },
+        {
+            "source": "jfbuss",
+            "target": "shallit"
+        },
+        {
+            "source": "jhoey",
+            "target": "m2nagapp"
+        },
+        {
+            "source": "jhoey",
+            "target": "ppoupart"
+        },
+        {
+            "source": "jhoey",
+            "target": "rcohen"
+        },
+        {
+            "source": "jianzhao",
+            "target": "kdaudjee"
+        },
+        {
+            "source": "jianzhao",
+            "target": "mli"
+        },
+        {
+            "source": "jianzhao",
+            "target": "ssalihog"
+        },
+        {
+            "source": "jianzhao",
+            "target": "y328yu"
+        },
+        {
+            "source": "jimmylin",
+            "target": "m2nagapp"
+        },
+        {
+            "source": "jimmylin",
+            "target": "mli"
+        },
+        {
+            "source": "jimmylin",
+            "target": "ssalihog"
+        },
+        {
+            "source": "jimmylin",
+            "target": "tozsu"
+        },
+        {
+            "source": "jimmylin",
+            "target": "y328yu"
+        },
+        {
+            "source": "jmatlee",
+            "target": "migod"
+        },
+        {
+            "source": "jmatlee",
+            "target": "nday"
+        },
+        {
+            "source": "jmatlee",
+            "target": "r2hackma"
+        },
+        {
+            "source": "jorchard",
+            "target": "mannr"
+        },
+        {
+            "source": "kdaudjee",
+            "target": "kmsalem"
+        },
+        {
+            "source": "kdaudjee",
+            "target": "nishi"
+        },
+        {
+            "source": "kdaudjee",
+            "target": "ssalihog"
+        },
+        {
+            "source": "kdaudjee",
+            "target": "tozsu"
+        },
+        {
+            "source": "klarson",
+            "target": "rcohen"
+        },
+        {
+            "source": "klarson",
+            "target": "uhengart"
+        },
+        {
+            "source": "kmsalem",
+            "target": "mkarsten"
+        },
+        {
+            "source": "kmsalem",
+            "target": "ssalihog"
+        },
+        {
+            "source": "kzillehu",
+            "target": "m2salahu"
+        },
+        {
+            "source": "lrafiees",
+            "target": "mwg"
+        },
+        {
+            "source": "m2nagapp",
+            "target": "migod"
+        },
+        {
+            "source": "m2nagapp",
+            "target": "nasokan"
+        },
+        {
+            "source": "m2nagapp",
+            "target": "s4mcinto"
+        },
+        {
+            "source": "m2nagapp",
+            "target": "y328yu"
+        },
+        {
+            "source": "m2salahu",
+            "target": "n2limam"
+        },
+        {
+            "source": "m2salahu",
+            "target": "rboutaba"
+        },
+        {
+            "source": "mannr",
+            "target": "rcohen"
+        },
+        {
+            "source": "mashti",
+            "target": "rboutaba"
+        },
+        {
+            "source": "mashti",
+            "target": "t35brown"
+        },
+        {
+            "source": "migod",
+            "target": "mwg"
+        },
+        {
+            "source": "migod",
+            "target": "nday"
+        },
+        {
+            "source": "migod",
+            "target": "r2hackma"
+        },
+        {
+            "source": "migod",
+            "target": "rcohen"
+        },
+        {
+            "source": "mkarsten",
+            "target": "pabuhr"
+        },
+        {
+            "source": "mkarsten",
+            "target": "rboutaba"
+        },
+        {
+            "source": "mkarsten",
+            "target": "ssalihog"
+        },
+        {
+            "source": "mrgrossm",
+            "target": "rcohen"
+        },
+        {
+            "source": "mwg",
+            "target": "smwatt"
+        },
+        {
+            "source": "n2limam",
+            "target": "rboutaba"
+        },
+        {
+            "source": "nanaeem",
+            "target": "olhotak"
+        },
+        {
+            "source": "nishi",
+            "target": "pabuhr"
+        },
+        {
+            "source": "nishi",
+            "target": "plragde"
+        },
+        {
+            "source": "oveksler",
+            "target": "yboykov"
+        },
+        {
+            "source": "pabuhr",
+            "target": "plragde"
+        },
+        {
+            "source": "ppoupart",
+            "target": "rcohen"
+        },
+        {
+            "source": "ppoupart",
+            "target": "vanbeek"
+        },
+        {
+            "source": "ppoupart",
+            "target": "y328yu"
+        },
+        {
+            "source": "ppoupart",
+            "target": "yuying"
+        },
+        {
+            "source": "rboutaba",
+            "target": "sgorbuno"
+        },
+        {
+            "source": "rcohen",
+            "target": "vanbeek"
+        },
+        {
+            "source": "s4bendav",
+            "target": "shai"
+        },
+        {
+            "source": "shai",
+            "target": "y328yu"
+        },
+        {
+            "source": "shallit",
+            "target": "tmjvasig"
+        },
+        {
+            "source": "ssalihog",
+            "target": "tozsu"
+        }
+    ]
+}
